@@ -1,5 +1,7 @@
 # Pixel Art Maker Project
 
+## VIEW IT LIVE [HERE](https://dhhyey-desai.github.io/Pixel_Art_Maker/)
+
 ## Table of Contents
 
 * [Instructions](#instructions)
